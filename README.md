@@ -312,7 +312,7 @@ Proces uwzględnia przyszłe wydarzenia, aktywne zamówienia, subskrypcje i dane
 <p align="center">
   <img src="assets/screenshots/cocina/01-map.PNG" width="230" alt="Cocina — wydarzenia w pobliżu">
   <img src="assets/screenshots/cocina/02-restaurant-tables.PNG" width="230" alt="Cocina — stoliki restauracyjne">
-  <img src="assets/screenshots/cocina/03-events.PNG" width="230" alt="Cocina — mapa wydarzeń i stolików">
+  <img src="assets/screenshots/cocina/03-events.png" width="230" alt="Cocina — mapa wydarzeń i stolików">
 </p>
 
 ### Cocina — relacje i komunikacja
@@ -349,7 +349,7 @@ Proces uwzględnia przyszłe wydarzenia, aktywne zamówienia, subskrypcje i dane
 <p align="center">
   <img src="assets/screenshots/restaurants/04-catering.PNG" width="230" alt="Cocina dla restauracji — pakiety cateringowe">
   <img src="assets/screenshots/restaurants/05-orders.PNG" width="230" alt="Cocina dla restauracji — obsługa zamówień">
-  <img src="assets/screenshots/restaurants/06-subscription.PNG" width="230" alt="Cocina dla restauracji — subskrypcja">
+  <img src="assets/screenshots/restaurants/06-add-table.PNG" width="230" alt="Cocina dla restauracji — subskrypcja">
 </p>
 
 ---
