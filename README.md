@@ -310,39 +310,46 @@ Proces uwzględnia przyszłe wydarzenia, aktywne zamówienia, subskrypcje i dane
 ### Cocina — społeczność i odkrywanie
 
 <p align="center">
-  <img src="assets/screenshots/cocina/01-events.PNG" width="230" alt="Cocina — wydarzenia w pobliżu">
+  <img src="assets/screenshots/cocina/01-map.PNG" width="230" alt="Cocina — wydarzenia w pobliżu">
   <img src="assets/screenshots/cocina/02-restaurant-tables.PNG" width="230" alt="Cocina — stoliki restauracyjne">
-  <img src="assets/screenshots/cocina/03-map.PNG" width="230" alt="Cocina — mapa wydarzeń i stolików">
+  <img src="assets/screenshots/cocina/03-events.PNG" width="230" alt="Cocina — mapa wydarzeń i stolików">
 </p>
 
 ### Cocina — relacje i komunikacja
 
 <p align="center">
-  <img src="assets/screenshots/cocina/04-matching.png" width="230" alt="Cocina — dopasowania LOVE i FRIENDS">
-  <img src="assets/screenshots/cocina/05-chat.png" width="230" alt="Cocina — czat wydarzenia">
+  <img src="assets/screenshots/cocina/04-matching.PNG" width="230" alt="Cocina — dopasowania LOVE i FRIENDS">
+  <img src="assets/screenshots/cocina/05-chat.PNG" width="230" alt="Cocina — czat wydarzenia">
   <img src="assets/screenshots/cocina/06-chef-profile.png" width="230" alt="Cocina — profil prywatnego szefa kuchni">
 </p>
 
 ### Cocina — usługi i catering
 
 <p align="center">
-  <img src="assets/screenshots/cocina/07-chef-offer.png" width="230" alt="Cocina — szczegóły zlecenia dla szefa kuchni">
-  <img src="assets/screenshots/cocina/08-catering-package.png" width="230" alt="Cocina — pakiet cateringowy">
-  <img src="assets/screenshots/cocina/09-catering-checkout.png" width="230" alt="Cocina — koszyk i realizacja cateringu">
+  <img src="assets/screenshots/cocina/07-chef-offer.PNG" width="230" alt="Cocina — szczegóły zlecenia dla szefa kuchni">
+  <img src="assets/screenshots/cocina/08-catering-package.PNG" width="230" alt="Cocina — pakiet cateringowy">
+  <img src="assets/screenshots/cocina/09-catering-checkout.PNG" width="230" alt="Cocina — koszyk i realizacja cateringu">
+</p>
+
+### Cocina — przepisy i książki kucharskie
+
+<p align="center">
+  <img src="assets/screenshots/cocina/10-recipe.jpg" width="230" alt="Cocina — pakiet cateringowy">
+  <img src="assets/screenshots/cocina/11-cookbook.png" width="230" alt="Cocina — koszyk i realizacja cateringu">
 </p>
 
 ### Cocina dla restauracji
 
 <p align="center">
-  <img src="assets/screenshots/restaurants/01-dashboard.png" width="230" alt="Cocina dla restauracji — pulpit i harmonogram">
-  <img src="assets/screenshots/restaurants/02-tables.png" width="230" alt="Cocina dla restauracji — zarządzanie stolikami">
-  <img src="assets/screenshots/restaurants/03-guests.png" width="230" alt="Cocina dla restauracji — lista gości i obecność">
+  <img src="assets/screenshots/restaurants/01-dashboard.PNG" width="230" alt="Cocina dla restauracji — pulpit i harmonogram">
+  <img src="assets/screenshots/restaurants/02-tables.PNG" width="230" alt="Cocina dla restauracji — zarządzanie stolikami">
+  <img src="assets/screenshots/restaurants/03-guests.PNG" width="230" alt="Cocina dla restauracji — lista gości i obecność">
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/restaurants/04-catering.png" width="230" alt="Cocina dla restauracji — pakiety cateringowe">
-  <img src="assets/screenshots/restaurants/05-orders.png" width="230" alt="Cocina dla restauracji — obsługa zamówień">
-  <img src="assets/screenshots/restaurants/06-subscription.png" width="230" alt="Cocina dla restauracji — subskrypcja">
+  <img src="assets/screenshots/restaurants/04-catering.PNG" width="230" alt="Cocina dla restauracji — pakiety cateringowe">
+  <img src="assets/screenshots/restaurants/05-orders.PNG" width="230" alt="Cocina dla restauracji — obsługa zamówień">
+  <img src="assets/screenshots/restaurants/06-subscription.PNG" width="230" alt="Cocina dla restauracji — subskrypcja">
 </p>
 
 ---
